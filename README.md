@@ -55,7 +55,7 @@ class MyComponent extends SummaryBase {
   state = {panelA: {useX: true}}
 
   render() {
-    let {useX} = this.state;
+    let {useX} = this.state.panelA;
     return <Button active={useX} onClick={e=>toggle(this, 'panelA.useX')}>UseX</Button>;
   }
 }
