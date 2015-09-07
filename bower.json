@@ -1,0 +1,28 @@
+{
+  "name": "react-state-utils",
+  "main": "dist/react-state-utils.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kmalakoff/react-state-utils",
+  "authors": [
+    "Kevin Malakoff <kmalakoff@gmail.com>"
+  ],
+  "description": "Some helpers for updating component state",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "state",
+    "utils"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
