@@ -1,6 +1,6 @@
 {
   "name": "react-state-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Some helpers for updating component state",
   "main": "dist/react-state-utils.js",
   "scripts": {
@@ -21,10 +21,8 @@
     "url": "https://github.com/kmalakoff/react-state-utils/issues"
   },
   "homepage": "https://github.com/kmalakoff/react-state-utils#readme",
-  "dependencies": {
-    "dotty": "0.0.2"
-  },
   "devDependencies": {
+    "dotty": "0.0.2",
     "gulp": "^3.9.0",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.4.0",

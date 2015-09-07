@@ -1,7 +1,7 @@
 {
   "name": "react-state-utils",
   "main": "dist/react-state-utils.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/kmalakoff/react-state-utils",
   "authors": [
     "Kevin Malakoff <kmalakoff@gmail.com>"
